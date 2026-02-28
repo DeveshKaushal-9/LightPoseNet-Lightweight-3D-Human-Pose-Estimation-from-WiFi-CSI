@@ -84,3 +84,38 @@ Clone the repository:
 ```bash
 git clone https://github.com/DeveshKaushal-9/LightPoseNet-Lightweight-3D-Human-Pose-Estimation-from-WiFi-CSI.git
 cd LightPoseNet-Lightweight-3D-Human-Pose-Estimation-from-WiFi-CSI
+
+---
+
+## 🏅 Academic Recognition
+
+- 🎤 **Oral Presentation** — MIT Undergraduate Research Technology Conference (URTC) 2025  
+- 🧠 **Poster Accepted** — AAAI 2026 Empowering Global South AI (EGSAI) Workshop, Singapore  
+- 🏆 **Finalist** — TechConnect’25 Research Poster Competition (ResCon), IIT Bombay  
+
+---
+
+## 📄 Citation
+
+If you use this work, please cite:
+
+**Lightweight Human Pose Estimation from WiFi Channel State Information Using Deep Neural Networks**  
+MIT URTC 2025  
+
+(PDF available in repository)
+
+---
+
+## 👤 Author
+
+**Devesh Kaushal**  
+B.Tech, Computer Science & Engineering  
+
+Research interests:  
+Wireless sensing, real-time perception, efficient deep learning, and AI systems for physical-world intelligence.
+
+---
+
+## 📜 License
+
+MIT License
